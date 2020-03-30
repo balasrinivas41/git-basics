@@ -83,6 +83,8 @@ $ git reset HEAD~1# Remove the most recent commit# Commit again!
 
 **The git remote command lets you create, view, and delete connections to other repositories.**
 
+$ git remote add origin remote_repository_URL# sets the new remote
+
 $ git remote -v# List the remote connections you have to other repositories.
 
 **The git remote -v command lists the URLs of the remote connections you have to other repositories.**
