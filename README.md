@@ -91,6 +91,9 @@ $ git remote -v# List the remote connections you have to other repositories.
 
 $ git push -u origin master # pushes changes to origin
 
+
+$ git push -f origin master # forcefully pushes changes to origin
+
 **Now the git push command pushes the changes in your local repository up to the remote repository you specified as the origin.**
 
 **See the Changes you made to your file:**
